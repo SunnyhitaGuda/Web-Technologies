@@ -1,0 +1,22 @@
+<html>
+<head>
+<title>GITAM WEBSITE</title>
+</head>
+<frameset rows="20%,80%">
+<frame src="file:///C:/Users/HP/Desktop/main.html">
+<frame name="downframe">
+</frameset>
+</html>
+
+
+<html>
+<head>
+<title>main</title>
+</head>
+<body>
+<a href="C:/Users/HP/Desktop/home.html" target="downframe">HOME</a>
+<a href="C:/Users/HP/Desktop/academics.html" target="downframe">ACADEMICS</a>
+<a href="C:/Users/HP/Desktop/admission.html" target="downframe">ADMISSIONS</a>
+<a href="C:/Users/HP/Desktop/ContactUs.html" target="downframe">CONTACT US</a>
+</body>
+</html>
