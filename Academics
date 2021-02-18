@@ -1,0 +1,51 @@
+<html>
+<head>
+<title>academics</title>
+</head>
+<body style="background-color:skyblue;">
+<h1></h1>
+<ol>
+<h2><li>ENGINEERING</li></h2>
+<ul>
+<li>Computer Science Engineering</li>
+<li>Electronics and Communication Engineering</li>
+<li>Electrical and Electronics Engineering</li>
+<li>Civil Engineering</li>
+<li>Aerospace Engineering</li>
+<li>Mechanical Engineering</li>
+</ul>
+<h2><li>MANAGEMENT</li></h2>
+<ul>
+<li>UG</li>
+<li>B.com(Accounting,Auditing&Taxation)
+<li>BBA(Air Cargo,Financial Markets)</li>
+<li>PG</li>
+<li>MBA(Business Analytics)</li>
+<li>MBA(Banking Finance)</li>
+</ul>
+<h2><li>SCIENCE</li></h2>
+<ul>
+<li>UG</li>
+<li>BCA</li>
+<li>B.Sc(Biochemistry,Microbiology,Bioinformaitcs</li>
+<li>B.Sc(Chemistry)</li>
+<li>B.Sc(Mathematics)</li>
+<li>B.Sc(Physics)</li>
+<li>PG</li>
+<li>M.Sc.Applied Mathematics</li>
+<li>M.Sc.Applied Biotechnology</li>
+<li>M.Sc.Applied Data Science</li>
+<li>electronics</li>
+</ul>
+<h2><li>PHARMACY</li></h2>
+<ul>
+<li>UG</li>
+<li>Bachelor of Pharmacy</li>
+<PG>
+<li>M.Pharm.Pharmaceutical Analysis</li>
+<li>M.Pharm Pharmacology</li>
+</ul>
+</ol><br/><br/>
+
+</body>
+</html>
